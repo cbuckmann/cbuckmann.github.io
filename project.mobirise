@@ -104,7 +104,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/190220-Y8-Dachterrasse-Qualität.pdf\">Pläne</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/Datenschutz.pdf\" target=\"_blank\">Datenschutz</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"assets/files/Y8%20Yoga%20Space.pdf\" target=\"_blank\">Pläne</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/Datenschutz.pdf\" target=\"_blank\">Datenschutz</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"assets/files/Wohnungen.pdf\" target=\"_blank\">Wohnungen</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -209,12 +209,12 @@
             "showName": false,
             "showBio": false,
             "autoplay": true,
-            "timeout": 5,
+            "timeout": "10",
             "paddingTop": 2,
             "paddingBottom": 1,
             "showBullets": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/y8-raum-12-dec-2018-2000x1331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/y8-raum-12-dec-2018-vermietung-web-640x426.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -299,7 +299,7 @@
           "_params": {
             "showBullets": false,
             "fullWidth": true,
-            "spacing": "1",
+            "spacing": "0",
             "paddingTop": 4,
             "paddingBottom": 4,
             "filterBgColor": false,
@@ -307,18 +307,6 @@
             "showText": false,
             "filter": false,
             "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/y8-raum-04-dec-2018-2000x1378.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/y8-raum-04-dec-2018-2000x1378-800x551.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -329,6 +317,18 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/y8-weledaevent-20170322-georgtedeschi.com-6-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/y8-weledaevent-20170322-georgtedeschi.com-6-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -342,12 +342,24 @@
                 "caption": "Type caption here"
               },
               {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/y8-raum-04-dec-2021-2000x1378.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/y8-raum-04-dec-2021-2000x1378-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/y8-raum-06-dec-2018-2000x1331.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/y8-raum-06-dec-2018-2000x1331-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/y8-raum-05-dec-2018-2000x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/y8-raum-05-dec-2018-2000x1331-800x532.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -390,11 +402,47 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/y8-raum-12-dec-2018-2000x1331.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/y8-raum-12-dec-2018-2000x1331-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/y8-raum-12-dec-2018-vermietung-web-640x426.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/y8-raum-12-dec-2018-vermietung-web-640x426-640x426.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/y8-weledaevent-20170322-georgtedeschi.com-9956-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/y8-weledaevent-20170322-georgtedeschi.com-9956-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/y8-raum-01-dec-2018-2000x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/y8-raum-01-dec-2018-2000x1331-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/y8-weledaevent-20170322-georgtedeschi.com-9929-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/y8-weledaevent-20170322-georgtedeschi.com-9929-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -414,7 +462,7 @@
             "animText1": "Please",
             "animText2": "Take",
             "animText3": "Care!",
-            "typeSpeed": "80",
+            "typeSpeed": "100",
             "paddingTop": 3,
             "paddingBottom": 2,
             "bgImageRadio": false,
