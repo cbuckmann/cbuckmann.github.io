@@ -707,19 +707,19 @@ h6,
 }
 #menu-3 .link[aria-expanded="true"],
 #menu-3 .dropdown-menu {
-  background: #e6e6e6;
+  background: #648286;
 }
 #menu-3 .nav-dropdown-sm .link:focus,
 #menu-3 .nav-dropdown-sm .link:hover,
 #menu-3 .nav-dropdown-sm .dropdown-item:focus,
 #menu-3 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #759498!important;
 }
 #menu-3 .navbar,
 #menu-3 .nav-dropdown-sm,
 #menu-3 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-3 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #7e9b9f;
 }
 #menu-3 .bg-color.transparent .link {
   color: #ffffff;
@@ -750,6 +750,7 @@ h6,
 }
 #extTestimonials2-9 .mbr-section-subtitle {
   color: #7e9b9f;
+  font-size: 20px;
 }
 #extTestimonials2-9 .card-block P {
   color: #7e9b9f;
@@ -762,6 +763,7 @@ h6,
 }
 #extMsg-box2-b P {
   font-size: 20px;
+  color: #ffffff;
 }
 #form1-2 .form-control-label {
   color: #232323;

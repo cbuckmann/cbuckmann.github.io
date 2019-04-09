@@ -69,13 +69,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#648286"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#759498!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#7e9b9f"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -98,13 +98,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#7e9b9f",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"assets/files/Y8%20Yoga%20Space.pdf\" target=\"_blank\">Pläne</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/Datenschutz.pdf\" target=\"_blank\">Datenschutz</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"assets/files/Wohnungen.pdf\" target=\"_blank\">Wohnungen</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"assets/files/Y8%20Yoga%20Space.pdf\" target=\"_blank\">Pläne</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"assets/files/Datenschutz.pdf\" target=\"_blank\">Datenschutz</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"assets/files/Wohnungen.pdf\" target=\"_blank\">Wohnungen</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -211,7 +211,7 @@
             "autoplay": true,
             "timeout": "10",
             "paddingTop": 2,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "showBullets": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/y8-raum-12-dec-2018-vermietung-web-640x426.jpg",
@@ -273,7 +273,7 @@
               }
             ]
           },
-          "title": "Ein heller, großzügiger Raum",
+          "title": "Ein heller, großzügiger Raum<br><br>",
           "subtitle": "mit viel Tageslicht (Oberlicht) und einer klaren Architektur mit besonderen Details eignet sich besonders für Fotoaufnahmen sowie für Seminare, Besprechungen und Workshops in einem einzigartigen Setting.&nbsp;<br>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -283,7 +283,8 @@
           "_anchor": "extTestimonials2-9",
           "_styles": {
             ".mbr-section-subtitle": {
-              "color": "#7e9b9f"
+              "color": "#7e9b9f",
+              "font-size": "20px"
             },
             ".card-block P": {
               "color": "#7e9b9f"
@@ -493,7 +494,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             "P": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "color": "#ffffff"
             }
           }
         },
