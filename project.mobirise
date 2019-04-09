@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -515,7 +515,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "KONTAKT",
+          "title": "KONTAKT / PREISANFRAGE",
           "subtitle": "<b>Y8</b><br>Kleiner Kielort 8 20144 Hamburg  / Telefon / 040 41424546  / office@artyoga.de<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ab die Post</a>",
           "form": {
